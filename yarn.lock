@@ -4403,7 +4403,7 @@ __metadata:
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-simple-import-sort: ^7.0.0
     eslint-plugin-sort-destructure-keys: ^1.4.0
-    fast-check: ^2.23.2
+    fast-check: ^3.5.0
     fast-equals: ^3.0.0
     fast-safe-stringify: ^2.1.1
     fp-ts: ^2.11.9
@@ -5072,12 +5072,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-check@npm:^2.23.2":
-  version: 2.23.2
-  resolution: "fast-check@npm:2.23.2"
+"fast-check@npm:^3.5.0":
+  version: 3.5.0
+  resolution: "fast-check@npm:3.5.0"
   dependencies:
-    pure-rand: ^5.0.1
-  checksum: cfdc69b0b59e24cd4bf34ece386832976efe70c08d0906a743f7a333ef76f59f8dbc4914ad4e41d8a203de3251c298a111eb07dd55b8f614db135974d14f56c6
+    pure-rand: ^5.0.2
+  checksum: 5725ef677919bec3982c7187534a6f8e2369659c1f187ec6eb79a4e94d8e09c6d713bf447be47269c11254c876431c93115c873a72b4174f9b15f164402149af
   languageName: node
   linkType: hard
 
@@ -9603,10 +9603,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pure-rand@npm:^5.0.1":
-  version: 5.0.1
-  resolution: "pure-rand@npm:5.0.1"
-  checksum: 2b05a6d80163308583a013fab8d7f7f2958a6f77895680c99d8c3ea1f3e49ac273716a59cb1777cfc370540df53e6dc017e46c70a869da81fe490b2e6703d77d
+"pure-rand@npm:^5.0.2":
+  version: 5.0.5
+  resolution: "pure-rand@npm:5.0.5"
+  checksum: 824b906f7f66695c15ed9a898ff650e925723515e999de0360b0726ebad924ce41a74cc2ac60409dc6c55f5781008855f32ecd0fe0a1f40fbce293d48bd11dd1
   languageName: node
   linkType: hard
 
